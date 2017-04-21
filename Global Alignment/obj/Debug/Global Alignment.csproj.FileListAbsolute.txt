@@ -1,0 +1,13 @@
+c:\users\soudy\documents\visual studio 2013\Projects\Global Alignment\Global Alignment\bin\Debug\Global Alignment.exe.config
+c:\users\soudy\documents\visual studio 2013\Projects\Global Alignment\Global Alignment\obj\Debug\Global Alignment.csprojResolveAssemblyReference.cache
+c:\users\soudy\documents\visual studio 2013\Projects\Global Alignment\Global Alignment\obj\Debug\Global_Alignment.Form1.resources
+c:\users\soudy\documents\visual studio 2013\Projects\Global Alignment\Global Alignment\obj\Debug\Global_Alignment.Properties.Resources.resources
+c:\users\soudy\documents\visual studio 2013\Projects\Global Alignment\Global Alignment\obj\Debug\Global Alignment.csproj.GenerateResource.Cache
+c:\users\soudy\documents\visual studio 2013\Projects\Global Alignment\Global Alignment\bin\Debug\Global Alignment.exe
+c:\users\soudy\documents\visual studio 2013\Projects\Global Alignment\Global Alignment\bin\Debug\Global Alignment.pdb
+c:\users\soudy\documents\visual studio 2013\Projects\Global Alignment\Global Alignment\obj\Debug\Global Alignment.exe
+c:\users\soudy\documents\visual studio 2013\Projects\Global Alignment\Global Alignment\obj\Debug\Global Alignment.pdb
+c:\users\soudy\documents\visual studio 2013\Projects\Global Alignment\Global Alignment\obj\Debug\Global_Alignment.Form2.resources
+C:\Users\amr\Downloads\Compressed\Global-Alignment\Global Alignment\bin\Debug\Global Alignment.exe.config
+C:\Users\amr\Downloads\Compressed\Global-Alignment\Global Alignment\obj\Debug\Global Alignment.exe
+C:\Users\amr\Downloads\Compressed\Global-Alignment\Global Alignment\obj\Debug\Global Alignment.pdb
